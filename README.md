@@ -12,8 +12,8 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/unikers71/autombf
+$ git clone https://github.com/haan87/autobokev
 
-$ cd autombf
+$ cd autobokev
 
 $ python2 mbf.py
